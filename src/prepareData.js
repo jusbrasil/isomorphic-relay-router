@@ -1,4 +1,4 @@
-import IsomorphicRelay from 'isomorphic-relay';
+import IsomorphicRelay from '@jusbrasil/isomorphic-relay';
 import IsomorphicQueryAggregator from './IsomorphicQueryAggregator';
 
 export default function prepareData(renderProps, networkLayer, preloadedRequests) {
